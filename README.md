@@ -32,4 +32,4 @@ Suggestions for improvement:
 
 Here are some interesting articles that could help in informing future marketing decisions:
 - https://www.ewadirect.com/proceedings/aemps/article/view/3714
--   Test
+ -   Test
