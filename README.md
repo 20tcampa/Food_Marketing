@@ -31,5 +31,6 @@ Suggestions for improvement:
 - People who have been customers for longer responded more positively to campaigns. Spending time/money into customer retention strategies could be a good prove to be a good investment.
 
 Here are some interesting articles that could help in informing future marketing decisions:
-- https://www.ewadirect.com/proceedings/aemps/article/view/3714
- -   Test
+- This article looks at the marketing psychology of luxury goods. While the article focuses on luxury goods, and the point of this suggestion is to increase the sales of the 'Gold Products', the methods described can still be used to inform how to increase sales of non-gold products: https://www.ewadirect.com/proceedings/aemps/article/view/3714
+- This article provides a very holistic view on food marketing. It goes into detail of the economics behind the food industry and psychology behind product label/packaging, marketing strategies, branding, and other things. I believe the information in this could be used to increase sales of the less-purchased food products and target marketing campaigns on specific individuals with specific methods on specific platforms. Additionally, this being a literature review can be great for getting a deeper insight into each of the topics mentioned to further inform strategies for improvement: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7698179/
+
